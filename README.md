@@ -1,2 +1,2 @@
 # CodeBuddy
-#my first project 
+# Myfirst Peojwct
